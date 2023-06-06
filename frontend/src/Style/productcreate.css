@@ -1,0 +1,17 @@
+@charset 'utf-8';
+#productcreatecol{
+    display: block;
+    margin-top: 5rem;
+    margin-left: 24rem;
+}
+#productcreatecard{
+    background-color: #e3e1e1;
+    margin-bottom: 3rem;
+}
+#productcreate-btn{
+    background-color: rgb(136, 191, 244);
+    color: black;
+    width: 15rem;
+    margin-top: 2rem;
+    margin-left: 20rem;
+}

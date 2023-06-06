@@ -1,0 +1,16 @@
+@charset 'utf-8';
+#storeappcol{
+    display: block;
+    margin-top: 5rem;
+    margin-left: 23rem;
+}
+#storeappcard{
+    background-color: #e3e1e1;
+}
+#storeapp-btn{
+    background-color: rgb(136, 191, 244);
+    color: black;
+    width: 15rem;
+    margin-top: 2rem;
+    margin-left: 15rem;
+}

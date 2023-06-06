@@ -1,0 +1,30 @@
+@charset 'utf-8';
+#categorycreatecol{
+    display: block;
+    margin-top: 5rem;
+    margin-left: 24rem;
+}
+#categorycreatecard{
+    background-color: #e3e1e1;
+}
+#category{
+    background-color: rgb(136, 191, 244);
+    color: black;
+    width: 15rem;
+    margin-top: 2rem;
+    margin-left: 25rem;
+    float: left;
+    margin-bottom: 3rem;
+}
+#subcategory{
+    background-color: rgb(136, 191, 244);
+    color: black;
+    width: 15rem;
+    margin-top: 2rem;
+    margin-right: 25rem;
+    float: right;
+    margin-bottom: 3rem;
+}
+#categorytable{
+    margin-left: 8rem;
+}

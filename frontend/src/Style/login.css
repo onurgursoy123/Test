@@ -1,0 +1,21 @@
+@charset 'utf-8';
+#login{
+  display: block;
+  float: right;
+  margin-top: 17rem;
+  margin-right: 10rem;
+}
+
+#login-password{
+margin-top: 2rem;
+}
+#login-btn{
+  margin-top: 2rem;
+  background-color: rgb(136, 191, 244);
+  color: black;
+  width: 10rem;
+  margin-left: 9rem;
+}
+#logincard{
+  background-color: #e3e1e1;
+}
